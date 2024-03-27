@@ -16,9 +16,20 @@ h2 {
     color:rgb(32, 119, 115);
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+
 .header{
     text-align:center;
     color:Red;
     font-size:40px;
     Font-Family:Fantasy;
+}
+.header:hover{
+    color:skyblue
+}
+iframe {
+    width:500px;
+    height:300px;
+}
+.main {
+    text-align: center;
 }
